@@ -1,1 +1,2 @@
-# parallax
+# Parallax
+HTML, CSS, JS
